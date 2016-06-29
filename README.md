@@ -41,11 +41,12 @@ To test the server open http://localhost:8080/ in your browser
 
 Security Warning
 ----------------
-The leaderboard server __is provided as is with no security__.  You are responsible for securing the services. This is a sample on which to base your own server. For real deployments you will also need to remove the landing page and the respective sample javascript lib.
+The leaderboard server __is provided as is with no security__.  You are responsible for securing the services. This is a sample on which to base your own server. For real deployments you will also need to remove the landing page and the respective sample javascript lib. Basic servlets are provided to access tha dao. Feel free to provide your own services.
 
  - - - -
 
-Created by [@mastorak](https://twitter.com/mastorak). More info at [ludumium.com](http://ludumium.com)
+More info at [ludumium.com](http://ludumium.com/cross-platform-leaderboard-server/)
+[@mastorak](https://twitter.com/mastorak)
 
 
 
